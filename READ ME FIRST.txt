@@ -1,0 +1,50 @@
+<!-- Project installation in your pc-->
+
+Step 1 :- we need collect the source code as well as supported softwares also like(Xampp, Chrome, VS Code).
+
+Step 2 :- Xampp download from the this link(). and install in your pc followed by the website guidelines.
+
+Step 3:- After that Steup the chrome and VS Code in your pc.
+
+Step 4:- Once installed the xammp create an floder(XAMPP) in your choosen location.
+
+Step 5:- In that location we have xampp supported files and folders presented. in the folders we htdocs folder.
+
+Step 6:- we have to move the your source code into htdocs folder.
+
+<!--Mysql Database Setup-->
+
+Step 7:- open the localhost:8080  there we have phpmyadmin. once clcik on phpmyadmin. 
+
+Step 8:- Mysql database login page opened. there we have enter the username and password( username :- root ,password:, mysql database).
+
+Step 9:- create databse:- ecomm.
+
+step 10:- import the sql file in given source code.
+       
+
+
+                 : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN PANEL LOGIN:
+
+>> NOTE : (for admin panel, login from the user's login)
+>>Enter the following details in Login for Admin Panel.
+
+admin also register by the email after that change the usr type in databse.
+
+USER LOGIN:
+
+users can create the accounts and login their respetive login credentials.
+
+DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>DATABASE FILE IS INSIDE "database" FOLDER!
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+#THANK YOU FOR DOWNLOADING
